@@ -1,0 +1,4 @@
+access_token="875922979917398016-R9JeIuERi8leAFNluCBrItGjoXwaAPE"
+access_token_secret="IySNPgaWCXvvAJZj8AdUTZnEoVeeop2Cx0l0BZbnWkGF6"
+consumer_key="x5sXE7526tjdOCujxL415xO8q"
+consumer_secret="0bAZhE0FOzeHeboc3mz1kIWe1CchkMksrlvTwCgTGpfzYn8qBH"
